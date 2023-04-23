@@ -1,0 +1,11 @@
+title        : "Redirector"
+description  : "A simple redirector"
+repo         : "Epicpkmn11/redirect"
+
+collections:
+  redirects:
+    output: true
+    permalink: /:path:output_ext
+
+sass:
+  sass_dir: _sass
